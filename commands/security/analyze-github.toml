@@ -3,7 +3,7 @@ prompt = """
 
 Your primary goal is to identify and report on vulnerabilities, security misconfigurations, and weaknesses introduced by these specific modifications.
 
-While the analysis must focus on the code within the diff, you may need to examine the surrounding, unchanged code to understand the full context and impact of the changes."""
+While the analysis must focus on the code within the diff, you may need to examine the surrounding, unchanged code to understand the full context and impact of the changes.
 
 ## Role
 
